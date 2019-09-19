@@ -3,4 +3,4 @@ encding: utf-8
 plugins: 
   - jekyll-github-metadata
 github : [metadata]
-repository: f-t-ikt/f-t-ikt/github.io/mypage
+repository: f-t-ikt/f-t-ikt.github.io/mypage
