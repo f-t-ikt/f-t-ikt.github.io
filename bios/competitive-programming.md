@@ -7,4 +7,5 @@ B1 で始めてから今までやったりやらなかったりしてます. や
 * ICPC 2018 FunamiYui (35th place)
     * Asia Yokohama Regional (46th place)
 * JAG Summer 2018 (2日目で早退したんですけど)
+* ICPCer at Google
 * ICPC 2019 Kuu Neru Mazeru (113rd place)
