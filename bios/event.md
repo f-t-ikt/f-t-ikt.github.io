@@ -10,7 +10,7 @@
     * 宮城
     * 愛知両日
     * 幕張追加両日
-    * 感想は[こちら](https://myidentification.hatenadiary.jp/entry/2019/08/05/163432")"https://myidentification.hatenadiary.jp/entry/2019/08/05/163432).
+    * 感想は[こちら](https://myidentification.hatenadiary.jp/entry/2019/08/05/163432).
 * Wake Up, Girls！ FINAL LIVE ～想い出のパレード～
     * 1月にファイナルを迎えたミルキィホームズと縁があったので参加.
 * 綾野ましろ One-man Live 2019「ID -fourth spring-」
