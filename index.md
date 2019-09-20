@@ -5,3 +5,4 @@
 * [競技プログラミング](bios/competitive-programming.md)
 * [作ったもの](bios/works.md)
 * [音ゲー](bios/music-game.md)
+* [オタクイベント](bios/event.md)
