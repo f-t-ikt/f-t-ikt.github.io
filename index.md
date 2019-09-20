@@ -4,3 +4,4 @@
 しばらくの間コンテンツは自己紹介に留めます.
 * [競技プログラミング](bios/competitive-programming.md)
 * [作ったもの](bios/works.md)
+* [音ゲー](bios/music-game.md)
