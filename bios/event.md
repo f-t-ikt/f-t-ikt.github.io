@@ -35,13 +35,12 @@
     * 僕の推しがいちばん可愛い.
 * LAWSON presents 夏川椎菜 1st Live Tour 2019 プロットポイント
     * 東京1日目
+    * 愛知
     * 感想は全公演終了後にまとめる予定.
 
 ## 参加予定のイベント
-* LAWSON presents 夏川椎菜 1st Live Tour 2019 プロットポイント
-    * 愛知
 * 「TrySailのTRYangle harmony」番組イベント2019
-    * 夜の部
+    * 両部
 * 綾野ましろLIVE 2019「ARCH」
     * 両日
 * rockin'on presents COUNTDOWN JAPAN 19/20
