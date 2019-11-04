@@ -36,11 +36,10 @@
 * LAWSON presents 夏川椎菜 1st Live Tour 2019 プロットポイント
     * 東京1日目
     * 愛知
+    * 東京追加
     * 感想は全公演終了後にまとめる予定.
 
 ## 参加予定のイベント
-* LAWSON presents 夏川椎菜 1st Live Tour 2019 プロットポイント
-    * 東京追加
 * 「TrySailのTRYangle harmony」番組イベント2019
     * 両部
 * 綾野ましろLIVE 2019「ARCH」
