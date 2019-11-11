@@ -38,10 +38,11 @@
     * 愛知
     * 東京追加
     * 感想は全公演終了後にまとめる予定.
+* 「TrySailのTRYangle harmony」番組イベント2019
+    * 両部参加
+    * 見るトラハモって最高なんですね. 僕の推しの色んな表情も楽しめた.
 
 ## 参加予定のイベント
-* 「TrySailのTRYangle harmony」番組イベント2019
-    * 両部
 * 綾野ましろLIVE 2019「ARCH」
     * 両日
 * rockin'on presents COUNTDOWN JAPAN 19/20
