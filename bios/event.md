@@ -41,9 +41,12 @@
 * 「TrySailのTRYangle harmony」番組イベント2019
     * 両部参加
     * 見るトラハモって最高なんですね. 僕の推しの色んな表情も楽しめた.
-
-## 参加予定のイベント
 * 綾野ましろLIVE 2019「ARCH」
     * 両日
+    * 最新アルバムを引っさげてのワンマン. 新曲の幅広さを存分に楽しめる回.
+
+## 参加予定のイベント
 * rockin'on presents COUNTDOWN JAPAN 19/20
     * 1日目
+* DIALOGUE＋JAM
+    * 昼の部
