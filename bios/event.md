@@ -46,6 +46,8 @@
     * 最新アルバムを引っさげてのワンマン. 新曲の幅広さを存分に楽しめる回.
 
 ## 参加予定のイベント
+* LAWSON premium event 麻倉もも，雨宮天，夏川椎菜のMusic Rainbow 06
+    * 昼の部
 * rockin'on presents COUNTDOWN JAPAN 19/20
     * 1日目
 * DIALOGUE＋JAM
