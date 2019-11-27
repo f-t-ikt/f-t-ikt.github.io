@@ -46,6 +46,8 @@
     * 最新アルバムを引っさげてのワンマン. 新曲の幅広さを存分に楽しめる回.
 
 ## 参加予定のイベント
+* TrySail Live Tour 2019 "The TrySail Odyssey" プレミア上映会
+    * 第2回
 * LAWSON premium event 麻倉もも，雨宮天，夏川椎菜のMusic Rainbow 06
     * 昼の部
 * rockin'on presents COUNTDOWN JAPAN 19/20
