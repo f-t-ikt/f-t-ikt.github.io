@@ -37,7 +37,7 @@
     * 東京1日目
     * 愛知
     * 東京追加
-    * 感想は全公演終了後にまとめる予定.
+    * 感想は[こちら](https://myidentification.hatenadiary.jp/entry/2019/11/07/194019).
 * 「TrySailのTRYangle harmony」番組イベント2019
     * 両部参加
     * 見るトラハモって最高なんですね. 僕の推しの色んな表情も楽しめた.
