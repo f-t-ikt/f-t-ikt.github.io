@@ -31,7 +31,7 @@
     * タワーレコード渋谷店参加
     * トラセの幕張に行くついでに予約したら当たった. ステージに立つ綺麗な女性を目の当たりにして自分磨きを決意.
 * THE IDOLM@STER MILLION LIVE! 6thLIVE TOUR UNI-ON@IR!!!!
-    * イオンシネマ海老名 LV
+    * 2日目イオンシネマ海老名 LV
     * 僕の推しがいちばん可愛い.
 * LAWSON presents 夏川椎菜 1st Live Tour 2019 プロットポイント
     * 東京1日目
@@ -53,11 +53,17 @@
     * 同一人物を追いかけてのイベ回しとかなかなかしない気がする.
 
 ## 参加予定のイベント
+* ＴＶアニメ「マギアレコード　魔法少女まどか☆マギカ外伝」トークショー付き 第1話＆第2話先行上映会
+    * 現地
+* フジテレビ『オダイバ！！超次元音楽祭』観覧
+    * 収録日程A: TrySail
 * LAWSON premium event 麻倉もも，雨宮天，夏川椎菜のMusic Rainbow 06
     * 昼の部
 * rockin'on presents COUNTDOWN JAPAN 19/20
     * 1日目
 * DIALOGUE＋JAM
     * 昼の部
+* LoveLive! Series 9th Anniversary ラブライブ！フェス
+    * 2日目橋本 LV
 * リスアニ！LIVE 2020
     * 1日目
