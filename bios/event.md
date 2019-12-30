@@ -57,10 +57,11 @@
 * フジテレビ『オダイバ！！超次元音楽祭』観覧
     * 収録日程A
     * あんなに近くでパフォーマンスを見れるとは…
-
-## 参加予定のイベント
 * LAWSON premium event 麻倉もも，雨宮天，夏川椎菜のMusic Rainbow 06
     * 両部
+    * ガチトークイベントをありがとうございます. もっと頻繁にやってくれてもいいのよ.
+
+## 参加予定のイベント
 * rockin'on presents COUNTDOWN JAPAN 19/20
     * 1日目
 * DIALOGUE＋JAM
