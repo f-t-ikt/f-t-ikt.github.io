@@ -60,10 +60,11 @@
 * LAWSON premium event 麻倉もも，雨宮天，夏川椎菜のMusic Rainbow 06
     * 両部
     * ガチトークイベントをありがとうございます. もっと頻繁にやってくれてもいいのよ.
-
-## 参加予定のイベント
 * rockin'on presents COUNTDOWN JAPAN 19/20
     * 1日目
+    * 僕が唯一健常者ぶることが出来る日なのに PENGUIN RESEARCH で暴れ散らかしてきた.
+
+## 参加予定のイベント
 * DIALOGUE＋JAM
     * 昼の部
 * LoveLive! Series 9th Anniversary ラブライブ！フェス
