@@ -71,3 +71,4 @@
     * 2日目橋本 LV
 * リスアニ！LIVE 2020
     * 1日目
+* IDOLY PRIDE – VENUS STAGE / BEGINNING -
