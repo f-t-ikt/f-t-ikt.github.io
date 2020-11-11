@@ -7,6 +7,7 @@
     * 2019年12月3日 HEROIC VERSE SP 九段に合格.
     * 最近一番やってる. やり始めたのは高校1年 (tricoro) からだけど…
     * ☆10ハード埋めが一番楽しい.
+    * [クリアランプマネージャー](https://beatmania-clearlamp.com/djdata/peachy/)
 * REFLEC BEAT
     * 一番最初に始めた音ゲー. 中学3年の頃 (limelight) かな？
     * groovin'!! 師範代まで受かってたはず. fallen leaves が抜けられなくて師範に合格できなかった記憶.
