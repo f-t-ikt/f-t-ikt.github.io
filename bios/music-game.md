@@ -5,6 +5,7 @@
     * 2019年10月15日 (HEROIC VERSE 稼働日前日) に SP 九段に合格. ウッソだろ.
     * 2019年11月20日 INFINITAS SP 九段に合格. ~~HEROIC VERSE の方はいつ受かるんだか…~~
     * 2019年12月3日 HEROIC VERSE SP 九段に合格.
+    * 2020年12月6日 BISTROVER SP 十段に合格.
     * 最近一番やってる. やり始めたのは高校1年 (tricoro) からだけど…
     * ☆10ハード埋めが一番楽しい.
     * [クリアランプマネージャー](https://beatmania-clearlamp.com/djdata/peachy/)
