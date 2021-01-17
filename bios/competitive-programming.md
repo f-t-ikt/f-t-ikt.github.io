@@ -9,5 +9,6 @@ B1 で始めてから今までやったりやらなかったりしてます. や
 * JAG Summer 2018 (2日目で早退したんですけど)
 * ICPCer at Google
 * ICPC 2019 Kuu Neru Mazeru (113rd place)
+* ICPC 2020 Genius Takano -Forever- (115th place)
 
 [戻る](../..)
