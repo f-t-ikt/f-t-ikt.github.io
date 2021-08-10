@@ -54,7 +54,7 @@ function getResult() {
     
     const yearStr = year.toString();
     const monthStr = month.toString();
-    const time = parseInt(yearStr + monthStr, 10) % date;
+    const time = parseInt(yearStr + monthStr, 10) % date + 1;
     const random = pseudoRandom(code);
     
     let index;
